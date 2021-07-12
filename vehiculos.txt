@@ -1,0 +1,7 @@
+3|a555|chevrolet|115|1a|2005|75000.0|verde|super|5000.0|polarizados|aaaa|lalala
+1|a777|BMW|a72|tricilindrico|2020|7000.0|rojo|super|5000.0
+4|er77|Honda|o99|cilindrico|2009|70000.0|amarillo|super|8000.0
+1|ab88|chevrolet|a77|cilindico|2007|75000.0|verde|extra|20000.0|polarizados|aaa
+1|a9999|bmw|ap|cilindrico|2003|80000.0|azul oscuro|super|8000.0
+1|a333|hyundai|a555|2.0|2005|78000.0|blanco|super|60000.0|no polarizados|buena
+1|a7575|chevrolet|a88|cilindrico|2010|60000.0|rosa|super|30000.0|no polarizados|buena

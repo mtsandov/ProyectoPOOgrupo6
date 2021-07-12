@@ -1,0 +1,8 @@
+ab88;m@org.com;15000.0
+a333;m@org.com;8000.0
+a555;m@org.com;3000.0
+er77;m@org.com;7000.0
+a555;m@yahoo.com;6000.0
+a777;m@yahoo.com;9000.0
+a555;m@org.com;5000.0
+a555;m@org.com;6000.0
